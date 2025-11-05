@@ -1,9 +1,9 @@
-[
+ [
     {
         "device_id": "46791203ce914ce7",
         "username": "1",
         "password": "1",
-        "expirydate": "31-12-2025",
+        "expirydate": "1-1-2025",
         "Allowoffline": true
     },
     {
@@ -19,6 +19,6 @@
         "device_id": "46791203ce914ce7",
         "username": "2",
         "password": "6",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-12-2025",
         "Allowoffline": false
   }
